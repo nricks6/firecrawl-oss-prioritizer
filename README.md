@@ -2,7 +2,7 @@
 
 CLI tool that fetches open issues from any GitHub repository, runs them through an LLM, and labels each one **P0 / P1 / P2** for instant triage.
 
-Built in under two hours with **Python**, **OpenAI**, **PyGitHub**, **Rich**, and AI‑assisted coding in **Cursor**.
+Built with **Python**, **OpenAI**, **PyGitHub**, **Rich**, and AI‑assisted coding in **Cursor**.
 
 ---
 
