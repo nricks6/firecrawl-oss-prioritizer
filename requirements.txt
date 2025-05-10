@@ -1,0 +1,4 @@
+PyGithub==2.6.1      # Feb 21 2025 :contentReference[oaicite:0]{index=0}
+openai==1.78.0       # May 8 2025  :contentReference[oaicite:1]{index=1}
+rich==14.0.0         # Mar 30 2025 :contentReference[oaicite:2]{index=2}
+python-dotenv==1.1.0 # Mar 25 2025 :contentReference[oaicite:3]{index=3}
